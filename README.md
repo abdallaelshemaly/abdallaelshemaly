@@ -77,14 +77,6 @@ Built a responsive restaurant website and performed cross-browser/device testing
 
 ---
 
-## 📊 GitHub Stats
-
-![Abdalla's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdallaelshemaly&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdallaelshemaly&layout=compact&theme=tokyonight)
-
----
-
 ## 🎯 Current Focus
 
 Machine Learning  
@@ -96,4 +88,4 @@ Backend Engineering
 
 ## 💡 Quote
 
-"Building real AI systems that solve real-world problems."
+“With artificial intelligence, we are summoning the demon.” – Elon Musk
