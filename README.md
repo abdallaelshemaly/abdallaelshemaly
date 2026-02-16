@@ -16,7 +16,7 @@ I focus on building scalable machine learning systems, deploying AI models, and 
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AbdallaElshemaly-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/abdalla-adel-elshemaly)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AbdallaElshemaly-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/abdalla-adel-elshemaly](https://www.linkedin.com/in/abdalla-adel-elshemaly-706496375/))
 
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:abdallaelshemalyy@gmail.com)
 
