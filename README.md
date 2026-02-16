@@ -16,7 +16,7 @@ I focus on building scalable machine learning systems, deploying AI models, and 
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AbdallaElshemaly-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/abdalla-adel-elshemaly](https://www.linkedin.com/in/abdalla-adel-elshemaly-706496375/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AbdallaElshemaly-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdalla-adel-elshemaly-706496375/)
 
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:abdallaelshemalyy@gmail.com)
 
@@ -72,7 +72,8 @@ Natural Language Processing chatbot achieving 98% accuracy using TF-IDF and cosi
 React, Node.js, and PostgreSQL system with authentication and cloud deployment.
 
 ### 67 Cafe — Web Development
-Built a responsive restaurant website and performed cross-browser/device testing to ensure reliable UI behavior.
+Built a responsive restaurant website and performed cross-browser/device testing to ensure reliable UI behavior.  
+
 
 ---
 
