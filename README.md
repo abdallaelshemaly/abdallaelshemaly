@@ -1,61 +1,175 @@
-# Abdalla Elshemaly
+<h1 align="center">Abdalla Elshemaly</h1>
 
+<h3 align="center">
 AI Engineer
+</h3>
 
-Computer Science student focused on building real-world AI systems, scalable backend architectures, and intelligent applications.
-
----
-
-## Featured Projects
-
-### TruthLens – AI Image Detection System
-AI-powered system to detect real vs fake images using CNN and EfficientNet.
-
-• Built with TensorFlow, FastAPI, and Streamlit  
-• Real-time prediction API  
-• Performance monitoring dashboard  
-• Achieved high classification accuracy  
+<p align="center">
+Building intelligent systems, production-ready AI pipelines, and scalable backend architectures.
+</p>
 
 ---
 
-### AI FAQ Chatbot – NLP System
-NLP chatbot that answers university student questions automatically.
+# About Me
 
-• Built with Python, Flask, TF-IDF, cosine similarity  
-• 98% accuracy for high-confidence responses  
-• Admin dashboard with analytics  
+Computer Science student and AI Engineer specializing in Machine Learning, NLP, Computer Vision, and full-stack AI systems.
 
----
+I design and deploy real-world AI solutions using modern engineering practices, including REST APIs, scalable cloud deployment, and full ML pipelines.
 
-### Credit Card Fraud Detection – Machine Learning
-ML system detecting fraudulent transactions using classification models.
-
-• Models: Random Forest, Logistic Regression, KNN  
-• Achieved 90% precision  
-• Feature engineering and data preprocessing  
+I focus on building systems that solve real problems in fraud detection, image analysis, and intelligent automation.
 
 ---
 
-### YallaEvent – Full Stack Platform
-Full-stack event management system with authentication and dashboards.
+# Featured Projects
 
-• React frontend, Node.js backend  
-• PostgreSQL database  
-• JWT authentication  
-• Admin and user roles  
+## TruthLens – AI Image Detection Platform
+
+Production-ready AI system that detects real vs fake images using deep learning.
+
+Tech Stack:
+- TensorFlow / EfficientNet CNN
+- FastAPI backend
+- Streamlit dashboard
+- Python, NumPy, Pandas
+
+Features:
+- Real-time image prediction
+- REST API architecture
+- Model performance monitoring dashboard
+- Production-ready backend
+
+Impact:
+- Built full ML pipeline from training to deployment
+- Designed scalable backend architecture
+
+GitHub:
+https://github.com/abdallaelshemaly/truthlens
 
 ---
 
-## Technical Skills
+## Credit Card Fraud Detection System
 
-Python • Machine Learning • Deep Learning  
-TensorFlow • Scikit-learn • FastAPI • Flask  
-React • Node.js • PostgreSQL  
-Git • Docker • REST APIs  
+Machine Learning system detecting fraudulent transactions using multiple classification models.
+
+Models implemented:
+- Random Forest
+- Logistic Regression
+- KNN
+- Naive Bayes
+
+Best Model Performance (Random Forest):
+- Accuracy: 99.95%
+- Precision: 91.25%
+- Recall: 76.84%
+- F1 Score: 0.83
+
+Dataset:
+- 453,204 training samples
+- 56,746 test samples
+- Highly imbalanced real-world financial dataset (0.17% fraud) :contentReference[oaicite:1]{index=1}
+
+Tech Stack:
+- Python
+- Scikit-learn
+- Pandas, NumPy
+- Feature Engineering
+- Model Evaluation
+
+GitHub:
+(Add your repo link)
 
 ---
 
-## Contact
+## AI FAQ Chatbot – NLP System
 
-LinkedIn: https://linkedin.com/in/abdalla-adel-elshemaly  
-Email: abdallaelshemalyy@gmail.com
+Natural Language Processing chatbot answering student questions automatically.
+
+Features:
+- TF-IDF vectorization
+- Cosine similarity search
+- Confidence threshold system
+- Learning mode improving accuracy
+
+Performance:
+- 98% high-confidence accuracy
+
+Tech Stack:
+- Python
+- Flask
+- NLP
+- REST API
+
+---
+
+## YallaEvent – Full-Stack Event Platform
+
+Full-stack event management system.
+
+Tech Stack:
+- React frontend
+- Node.js backend
+- PostgreSQL database
+- JWT authentication
+- Supabase storage
+
+Features:
+- Admin dashboard
+- Role-based authentication
+- Real-time event management
+
+---
+
+# Technical Skills
+
+Machine Learning:
+Python, TensorFlow, Scikit-learn, NLP, Computer Vision
+
+Backend:
+FastAPI, Flask, REST APIs, Node.js
+
+Frontend:
+React, Tailwind CSS
+
+Databases:
+PostgreSQL, SQL, Supabase
+
+Cloud & Deployment:
+Render, Netlify, Supabase, GitHub
+
+Tools:
+Git, Docker, VS Code
+
+---
+
+# Architecture Skills
+
+- ML model training pipelines
+- REST API deployment
+- Full-stack architecture
+- Production AI deployment
+- Database design
+- Model evaluation & optimization
+
+---
+
+# Current Focus
+
+Building production-ready AI systems combining:
+
+- Machine Learning
+- Backend Engineering
+- Cloud deployment
+- Scalable architecture
+
+---
+
+# Contact
+
+LinkedIn:
+https://linkedin.com/in/abdalla-adel-elshemaly
+
+Email:
+abdallaelshemalyy@gmail.com
+
+GitHub:
+https://github.com/abdallaelshemaly
