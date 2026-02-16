@@ -1,175 +1,98 @@
-<h1 align="center">Abdalla Elshemaly</h1>
+<h1 align="center">Hi, I'm Abdalla Elshemaly 👋</h1>
 
-<h3 align="center">
-AI Engineer
-</h3>
-
-<p align="center">
-Building intelligent systems, production-ready AI pipelines, and scalable backend architectures.
-</p>
+<h3 align="center">AI Engineer</h3>
 
 ---
 
-# About Me
+## 👨‍💻 About Me
 
-Computer Science student and AI Engineer specializing in Machine Learning, NLP, Computer Vision, and full-stack AI systems.
+I am a Computer Science student specializing in Artificial Intelligence and Machine Learning, with hands-on experience building and deploying production-ready AI systems.
 
-I design and deploy real-world AI solutions using modern engineering practices, including REST APIs, scalable cloud deployment, and full ML pipelines.
+During my internship at TechTalks, where I served as Team Leader, I led development of TruthLens, an AI-powered image authenticity detection platform using EfficientNet, FastAPI, and forensic analysis techniques.
 
-I focus on building systems that solve real problems in fraud detection, image analysis, and intelligent automation.
-
----
-
-# Featured Projects
-
-## TruthLens – AI Image Detection Platform
-
-Production-ready AI system that detects real vs fake images using deep learning.
-
-Tech Stack:
-- TensorFlow / EfficientNet CNN
-- FastAPI backend
-- Streamlit dashboard
-- Python, NumPy, Pandas
-
-Features:
-- Real-time image prediction
-- REST API architecture
-- Model performance monitoring dashboard
-- Production-ready backend
-
-Impact:
-- Built full ML pipeline from training to deployment
-- Designed scalable backend architecture
-
-GitHub:
-https://github.com/abdallaelshemaly/truthlens
+I focus on building scalable machine learning systems, deploying AI models, and developing intelligent backend architectures.
 
 ---
 
-## Credit Card Fraud Detection System
+## 🌐 Socials
 
-Machine Learning system detecting fraudulent transactions using multiple classification models.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AbdallaElshemaly-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/abdalla-adel-elshemaly)
 
-Models implemented:
-- Random Forest
-- Logistic Regression
-- KNN
-- Naive Bayes
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:abdallaelshemalyy@gmail.com)
 
-Best Model Performance (Random Forest):
-- Accuracy: 99.95%
-- Precision: 91.25%
-- Recall: 76.84%
-- F1 Score: 0.83
-
-Dataset:
-- 453,204 training samples
-- 56,746 test samples
-- Highly imbalanced real-world financial dataset (0.17% fraud) :contentReference[oaicite:1]{index=1}
-
-Tech Stack:
-- Python
-- Scikit-learn
-- Pandas, NumPy
-- Feature Engineering
-- Model Evaluation
-
-GitHub:
-(Add your repo link)
+[![GitHub](https://img.shields.io/badge/GitHub-abdallaelshemaly-black?style=for-the-badge&logo=github)](https://github.com/abdallaelshemaly)
 
 ---
 
-## AI FAQ Chatbot – NLP System
+## 🚀 Tech Stack
 
-Natural Language Processing chatbot answering student questions automatically.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 
-Features:
-- TF-IDF vectorization
-- Cosine similarity search
-- Confidence threshold system
-- Learning mode improving accuracy
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
 
-Performance:
-- 98% high-confidence accuracy
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![ScikitLearn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 
-Tech Stack:
-- Python
-- Flask
-- NLP
-- REST API
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
 
----
-
-## YallaEvent – Full-Stack Event Platform
-
-Full-stack event management system.
-
-Tech Stack:
-- React frontend
-- Node.js backend
-- PostgreSQL database
-- JWT authentication
-- Supabase storage
-
-Features:
-- Admin dashboard
-- Role-based authentication
-- Real-time event management
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
-# Technical Skills
+## 📌 Featured Projects
 
-Machine Learning:
-Python, TensorFlow, Scikit-learn, NLP, Computer Vision
+### TruthLens — AI Image Authenticity Detection Platform
+Deep learning system using EfficientNet and FastAPI to detect fake and manipulated images.
 
-Backend:
-FastAPI, Flask, REST APIs, Node.js
+### Fraud Detection System
+Machine learning system detecting fraudulent financial transactions using Random Forest and Scikit-learn.
 
-Frontend:
-React, Tailwind CSS
+### AI FAQ Chatbot
+Natural Language Processing chatbot achieving 98% accuracy using TF-IDF and cosine similarity.
 
-Databases:
-PostgreSQL, SQL, Supabase
+### YallaEvent — Full Stack Platform
+React, Node.js, and PostgreSQL system with authentication and cloud deployment.
 
-Cloud & Deployment:
-Render, Netlify, Supabase, GitHub
-
-Tools:
-Git, Docker, VS Code
+### 67 Cafe — Web Development
+Built a responsive restaurant website and performed cross-browser/device testing to ensure reliable UI behavior.
 
 ---
 
-# Architecture Skills
+## 📊 GitHub Stats
 
-- ML model training pipelines
-- REST API deployment
-- Full-stack architecture
-- Production AI deployment
-- Database design
-- Model evaluation & optimization
+![Abdalla's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdallaelshemaly&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdallaelshemaly&layout=compact&theme=tokyonight)
 
 ---
 
-# Current Focus
+## 🎯 Current Focus
 
-Building production-ready AI systems combining:
-
-- Machine Learning
-- Backend Engineering
-- Cloud deployment
-- Scalable architecture
+Machine Learning  
+Computer Vision  
+AI Deployment  
+Backend Engineering  
 
 ---
 
-# Contact
+## 💡 Quote
 
-LinkedIn:
-https://linkedin.com/in/abdalla-adel-elshemaly
-
-Email:
-abdallaelshemalyy@gmail.com
-
-GitHub:
-https://github.com/abdallaelshemaly
+"Building real AI systems that solve real-world problems."
