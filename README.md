@@ -74,16 +74,16 @@ I'm currently seeking opportunities as an **AI Engineer** or **Full-Stack Develo
 ### BizMoneyAI
 AI-powered financial intelligence platform built using FastAPI, Next.js, PostgreSQL (Supabase), and machine learning.
 
-### TruthLens — AI Image Authenticity Detection Platform
+### TruthLens - AI Image Authenticity Detection Platform
 Deep learning system using EfficientNet and FastAPI to detect fake and manipulated images.
 
-### YallaEvent — Full Stack Platform
+### YallaEvent - Full Stack Platform
 React, Node.js, and PostgreSQL system with authentication and cloud deployment.
 
 ### AI FAQ Chatbot
 Natural Language Processing chatbot achieving 98% accuracy using TF-IDF and cosine similarity.
 
-### 67 Cafe — Web Development
+### 67 Cafe - Web Development
 Built a responsive restaurant website and performed cross-browser/device testing to ensure reliable UI behavior.  
 
 ---
@@ -100,3 +100,6 @@ Built a responsive restaurant website and performed cross-browser/device testing
 ## 🎯 Career Goal
 
 Building intelligent software that combines machine learning, scalable backend systems, and modern web technologies to solve real-world problems.
+
+
+![](https://komarev.com/ghpvc/?username=abdallaelshemaly)
