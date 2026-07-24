@@ -1,16 +1,18 @@
 <h1 align="center">Hi, I'm Abdalla Elshemaly 👋</h1>
 
-<h3 align="center">AI Engineer</h3>
+<h3 align="center">Full-Stack Developer | AI Engineer</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a Computer Science student specializing in Artificial Intelligence and Machine Learning, with hands-on experience building and deploying production-ready AI systems.
+I'm Abdalla Elshemaly, a Computer Science graduate specializing in Artificial Intelligence and Full-Stack Development.
 
-During my internship at TechTalks, where I served as Team Leader, I led development of TruthLens, an AI-powered image authenticity detection platform using EfficientNet, FastAPI, and forensic analysis techniques.
+I enjoy building intelligent, production-ready applications by combining machine learning with modern web technologies. My experience spans backend engineering, REST API development, computer vision, natural language processing, and scalable full-stack systems.
 
-I focus on building scalable machine learning systems, deploying AI models, and developing intelligent backend architectures.
+My flagship project, **BizMoneyAI**, is an AI-powered financial intelligence platform built with FastAPI, Next.js, PostgreSQL (Supabase), and multiple machine learning models for transaction classification, anomaly detection, spending forecasting, and business insights.
+
+I'm currently seeking opportunities as an **AI Engineer** or **Full-Stack Developer**.
 
 ---
 
@@ -54,38 +56,47 @@ I focus on building scalable machine learning systems, deploying AI models, and 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdallaelshemaly&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdallaelshemaly&layout=compact)
 
 ---
 
 ## 📌 Featured Projects
 
+### BizMoneyAI
+AI-powered financial intelligence platform built using FastAPI, Next.js, PostgreSQL (Supabase), and machine learning.
+
 ### TruthLens — AI Image Authenticity Detection Platform
 Deep learning system using EfficientNet and FastAPI to detect fake and manipulated images.
-
-### Fraud Detection System
-Machine learning system detecting fraudulent financial transactions using Random Forest and Scikit-learn.
-
-### AI FAQ Chatbot
-Natural Language Processing chatbot achieving 98% accuracy using TF-IDF and cosine similarity.
 
 ### YallaEvent — Full Stack Platform
 React, Node.js, and PostgreSQL system with authentication and cloud deployment.
 
+### AI FAQ Chatbot
+Natural Language Processing chatbot achieving 98% accuracy using TF-IDF and cosine similarity.
+
 ### 67 Cafe — Web Development
 Built a responsive restaurant website and performed cross-browser/device testing to ensure reliable UI behavior.  
 
+---
+
+## 🔭 Currently Working On
+
+• Improving BizMoneyAI
+• Learning Docker & CI/CD
+• Building production-ready AI systems
+• Contributing to open source
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Career Goal
 
-Machine Learning  
-Computer Vision  
-AI Deployment  
-Backend Engineering  
-
----
-
-## 💡 Quote
-
-“With artificial intelligence, we are summoning the demon.” – Elon Musk
+Building intelligent software that combines machine learning, scalable backend systems, and modern web technologies to solve real-world problems.
