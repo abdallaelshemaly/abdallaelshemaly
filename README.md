@@ -61,14 +61,6 @@ I'm currently seeking opportunities as an **AI Engineer** or **Full-Stack Develo
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdallaelshemaly&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdallaelshemaly&layout=compact)
-
----
-
 ## 📌 Featured Projects
 
 ### BizMoneyAI
