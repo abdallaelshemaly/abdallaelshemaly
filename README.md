@@ -120,7 +120,7 @@ A question-answering chatbot that uses text similarity to match user questions w
 
 ---
 
-### 4. [YallaEvent — Event Management Platform](https://github.com/abdallaelshemaly/Event-Management-System)
+### 4. [YallaEvent - Event Management Platform](https://github.com/abdallaelshemaly/Event-Management-System)
 **Full-Stack Web Application**
 
 An event management platform built around frontend/backend integration, authentication, and database-backed application functionality.
@@ -129,7 +129,7 @@ An event management platform built around frontend/backend integration, authenti
 
 ---
 
-### 5. 67 Cafe — Restaurant Website
+### 5. 67 Cafe - Restaurant Website
 **Responsive Frontend Application**
 
 A responsive restaurant website developed with an emphasis on user interface consistency and cross-browser/device testing.
